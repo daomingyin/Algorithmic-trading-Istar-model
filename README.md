@@ -1,6 +1,7 @@
 # Algorithmic-trading-Istar-model
+•	Formed an I-Star model for 50 stocks in order to determine the efficient frontier of all stocks and optimize the portfolio – calculated the best market impact and trading cost with linear regression, non-linear regression, non-linear regression with sampling
 
-The program maily use the I-star model to calculate the market impact and the cost for trading.
+•	The I-Star portfolio realized an average profit of 5% in 15 trading days
 
 Special thanks to professor Rober Kissell!
 
